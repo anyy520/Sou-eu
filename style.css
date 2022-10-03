@@ -1,0 +1,61 @@
+body{
+    background-image: linear-gradient(rgb(7, 3, 120), rgb(84, 133, 184));
+}
+img{
+height: 100%;
+    width: 50%;
+    float: left;
+    opacity: 0.5;
+    z-index: -120;
+    opacity: 0.3;
+    position: absolute;
+
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 300px;
+}
+#paragrafo1{
+   
+
+   
+   float:left;
+   text-align: justify;
+   width: 23%;
+}
+p{
+    font-size: 20px;
+    position: relative;
+    z-index: 1;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#paragrafo2{
+   float:right;
+   text-align: justify;
+   width: 25%;
+   top: 0px;
+}
+#header{
+    color: rgb(255, 255, 255);
+    position: fixed;
+    margin-top:20px ;
+    margin-left: 318px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.8;
+}
+#rodape{
+    color: rgb(255, 255, 255);
+    position: fixed;
+   margin-top: 420px;
+   float: none;
+   margin-left: 450px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   opacity: 0.8;
+   
+    
+}
+#sobre
+{
+position:fixed; 
+margin-top:400px; 
+margin-left: 500px;
+}
