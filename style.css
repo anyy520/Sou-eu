@@ -17,7 +17,7 @@ height: 100%;
 #paragrafo1{
    
 
-   margin-top: 30px;
+   margin-top: 50px;
    float:left;
    text-align: left;
    width: 20%;
@@ -32,6 +32,7 @@ height: 100%;
     margin-right: 50px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     opacity: 0.8;
+    font-size: 25px;
 }
 #rodape{
     color: rgb(255, 255, 255);
